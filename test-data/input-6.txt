@@ -1,0 +1,6 @@
+# Create a ship specified in test06
+GT4500,1,0,1,0
+TORPEDO,SINGLE  # should have fired
+TORPEDO,SINGLE  # should have fired
+TORPEDO,SINGLE  # shouldn't have fired
+TORPEDO,SINGLE  # shouldn't have fired

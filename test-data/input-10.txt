@@ -1,0 +1,6 @@
+# Create a ship specified in test10
+# Initialization:
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # should have fired
+# Test:
+TORPEDO,SINGLE  # shouldn have fired

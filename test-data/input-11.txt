@@ -1,3 +1,3 @@
-# Create a ship specified in test08
+# Create a ship specified in test11
 GT4500,1,1,1,0
 TORPEDO,ALL  # should have fired (only one)

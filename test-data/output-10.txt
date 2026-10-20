@@ -1,0 +1,5 @@
+# Initialization:
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO
+# Test:
+SUCCESS  # <- TORPEDO
